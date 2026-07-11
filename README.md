@@ -4,8 +4,7 @@ This repository contains a comprehensive collection of NumPy concepts, examples,
 
 ## Topics Covered
 
-* Introduction to NumPy
-* Installing and Importing NumPy
+* Importing NumPy
 * Creating Arrays
 * Array Dimensions and Shapes
 * Data Types (dtype)
@@ -21,15 +20,10 @@ This repository contains a comprehensive collection of NumPy concepts, examples,
 * Random Number Generation
 * Linear Algebra Operations
 * Matrix Multiplication
-* Eigenvalues and Eigenvectors
 * Determinants and Inverse Matrices
 * Handling Missing Values
 * Boolean Masking
 * Fancy Indexing
-* Performance Optimization and Vectorization
-* File Input/Output (CSV, TXT, NPY, NPZ)
-* Real-World Data Analysis Examples
-* Practice Exercises and Mini Projects
 
 ## Features
 
